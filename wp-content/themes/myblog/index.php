@@ -16,7 +16,8 @@
         <div class="col-md-10 col-lg-8 col-xl-7">
           <div class="site-heading">
             <h1><?php bloginfo('name'); ?></h1>
-            <span class="subheading"><?php bloginfo('description'); ?></span>
+            <h2>deployチェック</2>
+              <span class="subheading"><?php bloginfo('description'); ?></span>
           </div>
         </div>
       </div>
