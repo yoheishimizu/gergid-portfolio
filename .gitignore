@@ -6,6 +6,7 @@
 !/assets/
 !README.md
 !/pardot_post/
+!/.github/
 
 # 一部を除くwp-content以下のディレクトリを除外
 wp-content/*
